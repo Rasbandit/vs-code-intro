@@ -7,8 +7,8 @@
 * <strong>Expand Selection:</strong> Shift + Alt → 
 * <strong>Shrink Selection:</strong> Shift + Alt ← 
 * <strong>Delete Whole Line:</strong> Ctrl + Shift + K 
-* <strong>Select line Left:</strong> ⌘ delete
-* <strong>Select Line Right:</strong> ⌘ fn delete 
+* <strong>Select line Left:</strong> Shift + end
+* <strong>Select Line Right:</strong> Shift + home 
 * <strong>Select multiple Lines: </strong> ⇧ ↑ / ↓
 * <strong>Wrap selection:</strong> { ( [ " ' `
 
