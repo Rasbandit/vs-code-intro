@@ -1,17 +1,7 @@
-var example = 'right here is a good example ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
-var example = 'right here is a good example cuz ya';
+var example = 'best example ever';
 
-for(var number = 0; number < 10; number++) {
-  console.log(number)
+for(var i = 0; i < 10; i++) {
+console.log(i)
 }
 
 let string = 'one example';
