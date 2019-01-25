@@ -3,8 +3,8 @@
 ## Overview
 
 <ul>
-  <li> <a href="https://vimeo.com/album/5349754/video/297768289">Intro to VSCode</a></li>
-  <li> <a href="https://vimeo.com/album/5349754/video/297768486">Overview of VSCode</a></li>
+  <li> <a href="https://vimeo.com/album/5349754/video/297768289">Intro</a></li>
+  <li> <a href="https://vimeo.com/album/5349754/video/297768486">Overview</a></li>
   <li> <a href="https://vimeo.com/album/5349754/video/297767046">File Explorer</a></li>
   <li> <a href="https://vimeo.com/album/5349754/video/297767424">Find and Replace</a></li>
   <li> <a href="https://vimeo.com/album/5349754/video/297768880">Git and the Terminal</a></li>
