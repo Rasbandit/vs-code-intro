@@ -19,7 +19,7 @@
   <li> <a href="https://vimeo.com/album/5349754/video/297766523">Basic Editing</a></li>
   <li> <a href="https://vimeo.com/album/5349754/video/297769026">Text Manipulation</a></li>
   <li> <a href="https://vimeo.com/album/5349754/video/297768026">Formatting and Clutter</a></li>
-  <li> <a href="https://vimeo.com/album/5349754/video/297767264">Formatting and Clutter</a></li>
+  <li> <a href="https://vimeo.com/album/5349754/video/297767264">File Navigation</a></li>
 </ul>
 
 ## Speed Challenge
