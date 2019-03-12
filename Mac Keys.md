@@ -1,5 +1,7 @@
 # Mac Keyboard Shortcuts
 
+<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">More Keyboard Shorcuts</a>
+
 ## Legend
 
 * <strong>⌘ Command<strong>

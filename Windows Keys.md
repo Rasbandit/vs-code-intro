@@ -1,5 +1,8 @@
 # Windows Keys
 
+<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">More Keyboard Shortcuts</a>
+
+
 ## Basic Editing
 
 * <strong>Delete Word Left:</strong> Ctrl delete
